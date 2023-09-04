@@ -23,7 +23,7 @@ This program is written in C# and utilizes basic mathematical concepts and contr
 
 ## Functions and Classes
 • `PrimeFactorization.Factorize(int n)`- This static method performs prime factorization and primality testing for the given integer `n` and returns the results as a formatted string.<br />
-• `Program.Main()`- The program's entry point that handles user input, invokes the factorization/primality test, and displays the results.<br />
+• `Program.Main()`- The program's entry point that handles user input invokes the factorization-primality test, and displays the results.<br />
 
 ## Installation and Usage
 1. Ensure you have the .NET Framework installed on your system.
