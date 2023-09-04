@@ -37,4 +37,4 @@ This program is written in C# and utilizes basic mathematical concepts and contr
 5. To exit the program, type "exit" when prompted for input.
 
 ## Conclusion
-The Prime Factorization and Primality Testing Program is a simple yet useful tool for understanding the prime factors of a positive integer and determining whether it is prime. It can be educational and handy for various mathematical and programming purposes. This project provides a practical example of basic mathematical algorithms and console-based user interaction in C#. Enjoy using and learning from this program! 
+The Prime Factorization and Primality Testing Program is a simple yet useful tool for understanding the prime factors of a positive integer and determining whether it is prime. It can be educational and handy for various mathematical and programming purposes. This project provides a practical example of basic mathematical algorithms and console-based user interaction in C#.
