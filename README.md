@@ -5,6 +5,7 @@ The Prime Factorization and Primality Testing Program is a console application w
 
 ## Technical Details
 This program is written in C# and utilizes basic mathematical concepts and control structures to achieve its objectives. Here are some key technical details:
+
 • Language: C#.<br />
 • Development Environment: Visual Studio or any C# IDE.<br />
 • Libraries Used: System (for console I/O), Math (for square root calculations).<br />
